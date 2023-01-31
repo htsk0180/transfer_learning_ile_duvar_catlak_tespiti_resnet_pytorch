@@ -1,0 +1,2 @@
+# transfer_learning_ile_duvar_catlak_tespiti_resnet_pytorch
+ 
